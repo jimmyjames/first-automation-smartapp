@@ -1,0 +1,7 @@
+{
+    "name": "First Automation SmartApp",
+    "description": "A barebones Automation SmartApp written in Node.js app using Express 4",
+    "repository": "https://github.com/jimmyjames/first-automation-smartapp",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["smartthings", "node", "express"]
+  }
