@@ -26,7 +26,7 @@ _2. Launch Glitch app_
 
 In Glitch, click the _Show_ button: 
 
-[![Show Glitch app](./glitch-show.png)]
+![Show Glitch app](./glitch-show.png)
 
 Copy the URL of the page launched from the step above. It should look like `https://{app-name}.glitch.me`
 
@@ -36,7 +36,7 @@ Using a Samsung account, log in to the [Developer Workspace](https://devworkspac
 
 From the _Develop_ section, click _Automations_ in the left-hand menu:
 
-[![Automations](./workspace-automations-menu.png)]
+![Automations](./workspace-automations-menu.png)
  
 - Click the _New Automation_ button.
 - Enter a _Display name_, _Automation name_, and _Description_.
@@ -45,7 +45,7 @@ From the _Develop_ section, click _Automations_ in the left-hand menu:
 - Click _Save_
 - Click the _Self Publish_ button on the bottom of the next step:
 
-[![Self Publish](./workspace-self-publish.png)]
+![Self Publish](./workspace-self-publish.png)
 
 _4. Install Automation app_
 
@@ -74,7 +74,7 @@ Using a Samsung account, log in to the [Developer Workspace](https://devworkspac
 
 From the _Develop_ section, click _Automations_ in the left-hand menu:
 
-[![Automations](./workspace-automations-menu.png)]
+![Automations](./workspace-automations-menu.png)
  
 - Click the _New Automation_ button.
 - Enter a _Display name_, _Automation name_, and _Description_.
@@ -83,7 +83,7 @@ From the _Develop_ section, click _Automations_ in the left-hand menu:
 - Click _Save_
 - Click the _Self Publish_ button on the bottom of the next step:
 
-[![Self Publish](./workspace-self-publish.png)]
+![Self Publish](./workspace-self-publish.png)
 
 _3. Install Automation app_
 
@@ -95,7 +95,7 @@ _3. Install Automation app_
 
 To view logs in Heroku, from the application in Heroku, click the _More_ button, then the _View logs_ option:
 
-[![Heroku logs](./heroku-view-logs.png)]
+![Heroku logs](./heroku-view-logs.png)
 
 ## Build and host on your machine
 
