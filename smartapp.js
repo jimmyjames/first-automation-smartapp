@@ -90,9 +90,6 @@ function handleConfig(event) {
         name: APP_NAME,
         description: "First Automation SmartApp",
         id: "app",
-        // TODO - for no-op app, just need some permission
-        // remove when have actual config
-        permissions: ["r:schedules"],
         firstPageId: "1"
       };
       break;

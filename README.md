@@ -41,7 +41,7 @@ From the _Develop_ section, click _Automations_ in the left-hand menu:
 - Click the _New Automation_ button.
 - Enter a _Display name_, _Automation name_, and _Description_.
 - For the _Target URL_ field, enter the URL of your Glitch app from Step 2 above.
-- Click the _Add_ button for the _Scopes_ field, and select the `r:schedules` scope.
+- Click the _Add_ button for the _Scopes_ field, and select a scope (any scope is fine).
 - Click _Save_
 - Click the _Self Publish_ button on the bottom of the next step:
 
