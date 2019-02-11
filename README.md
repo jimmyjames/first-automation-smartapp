@@ -96,15 +96,3 @@ _3. Install Automation app_
 To view logs in Heroku, from the application in Heroku, click the _More_ button, then the _View logs_ option:
 
 ![Heroku logs](./heroku-view-logs.png)
-
-## Build and host on your machine
-
-If you'd rather build and run this example on your machine, follow these steps:
-
-- TODO
-
-# TODO
-
-- Add configuration options to select devices for creating subscriptions/executing device commands (optional during configuration)
-- Add configuration option to create scheduled executions
-- Improve README instructions (screencast demos)
